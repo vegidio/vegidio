@@ -1,6 +1,6 @@
 ## Hello there! 👋🏾
 
-My name is **Vinicius** (my friend's call me *Vini*), I'm a Software Engineer with 20+ years of experience; I started as a Backend Developer, but my focus in the last 10+ years has been Mobile Development, taking the roles of Senior Engineer, Tech Lead and Software Architect.
+My name is **Vinicius** (my friend's call me Vini), I'm a Software Engineer with 20+ years of experience. I started as a Backend Developer, but my focus in the last 10+ years has been Mobile Development, taking the roles of Senior Engineer, Tech Lead and Software Architect.
 
 This is the tech stack that I like to work with:
 
