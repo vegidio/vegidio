@@ -20,3 +20,14 @@ This is the tech stack that I like to work with:
   <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/Golang-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Dart"/>
 </p>
+
+---
+
+### Sponsors
+
+My work is possible due to the generous contributions from the sponsors below:
+
+<p align="center">
+  <a href="https://github.com/LeonStadler"><img src="https://wsrv.nl/?url=https://github.com/LeonStadler.png&w=72&h=72&fit=cover&mask=circle&output=webp" width="72" height="72" alt="LeonStadler"></a>
+  <a href="https://github.com/dennispcarne-ui"><img src="https://wsrv.nl/?url=https://github.com/dennispcarne-ui.png&w=72&h=72&fit=cover&mask=circle&output=webp" width="72" height="72" alt="dennispcarne-ui"></a>
+</p>
